@@ -1,0 +1,15 @@
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\bin\Debug\net10.0\HospedagemDeUmHotel.exe
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\bin\Debug\net10.0\HospedagemDeUmHotel.deps.json
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\bin\Debug\net10.0\HospedagemDeUmHotel.runtimeconfig.json
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\bin\Debug\net10.0\HospedagemDeUmHotel.dll
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\bin\Debug\net10.0\HospedagemDeUmHotel.pdb
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\obj\Debug\net10.0\HospedagemDeUmHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\obj\Debug\net10.0\HospedagemDeUmHotel.AssemblyInfoInputs.cache
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\obj\Debug\net10.0\HospedagemDeUmHotel.AssemblyInfo.cs
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\obj\Debug\net10.0\HospedagemDeUmHotel.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\obj\Debug\net10.0\HospedagemDeUmHotel.sourcelink.json
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\obj\Debug\net10.0\HospedagemDeUmHotel.dll
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\obj\Debug\net10.0\refint\HospedagemDeUmHotel.dll
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\obj\Debug\net10.0\HospedagemDeUmHotel.pdb
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\obj\Debug\net10.0\HospedagemDeUmHotel.genruntimeconfig.cache
+C:\Users\Filipe\Downloads\DIO\Hospedagem-de-um-Hotel-no-C-\HospedagemDeUmHotel\obj\Debug\net10.0\ref\HospedagemDeUmHotel.dll
